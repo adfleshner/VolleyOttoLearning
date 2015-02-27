@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volley Otto Learning</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="move_location">Move Location</string>
+    <string name="clear_location">Clear History</string>
+</resources>
